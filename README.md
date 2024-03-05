@@ -9,14 +9,17 @@ The game can also be played as you against a millionaire.  You start with $100 a
 
 Game works best in a desktop or laptop browser or on a tablet.  
 
+Game is available online at <https://www.silverhammersoftware.com/Poker.cgi>.
+
+Card images are available at <https://code.google.com/archive/p/vector-playing-cards/downloads>.
+
 ### Licenses
 
 Poker website program has GNU AFFERO GENERAL PUBLIC LICENSE.
 
-Program uses an evaluator written by Kevin L. Suffecool. That code is included in the CactusKev sub-directory. Since there is no copyright statement or license information included with his code, I am assuming "Copyright 2001 Kevin L. Suffecool <kevin@suffe.cool>".
+Program uses an evaluator written by Kevin L. Suffecool. That code is included in the CactusKev sub-directory. Since there is no copyright statement or license information included with his code, I am assuming Copyright 2001 Kevin L. Suffecool <kevin@suffe.cool>.
 
 Description: <http://suffe.cool/poker/evaluator.html>  
 Code: <http://suffe.cool/poker/code/>  
 Contact: <https://www.suffe.cool/contact.html>  
-
 
