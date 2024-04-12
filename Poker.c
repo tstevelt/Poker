@@ -37,7 +37,7 @@ int main ( int argc, char *argv[] )
 	int		ShowResults = 0;
 	int		BetResult;
 
-	seed_random_with_usec ();
+	shs_seed_random ();
 
 	GlobalDebug = 0;
 	if ( GlobalDebug )
